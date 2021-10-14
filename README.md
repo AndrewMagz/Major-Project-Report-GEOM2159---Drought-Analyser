@@ -7,9 +7,9 @@ Created on Sat Sep 18 13:29:54 2021
 @author: Andrew
 """
 
-import os
-import processing
-from PyQt5 import QtCore, QtGui, QtWidgets
+    import os
+    import processing
+    from PyQt5 import QtCore, QtGui, QtWidgets
 
     filepath = 'C:/Users/magli/Desktop/GIS Programming/Project/Python_Files/'
     netCDF_raster = 'sm_pct_Actual_month.nc'
